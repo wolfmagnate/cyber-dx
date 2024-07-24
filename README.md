@@ -1,1 +1,1 @@
-[myfunc関数へのリンク](function.go#myfunc)
+[myfunc関数へのリンク](function.go#myfunc13)
