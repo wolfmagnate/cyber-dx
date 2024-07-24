@@ -1,0 +1,1 @@
+[myfunc関数へのリンク](function.go#myfunc)
